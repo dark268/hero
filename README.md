@@ -5,12 +5,12 @@
 * The Forker may use 2 names, depends on his choice. 	
 
 
-# {Forker}	# {Forker}
+# {Forker}
 ```	```
 ####################################################			
 #  DARK Forked and lit up by  <>,.,fbi,.,<>   #	
-#						   #	#						   #
-#						   #	#						   #
+#						   #	#						   
+#						   #	#						   
 #  Instagram @d_S_P_0528 #	
 #  Github: saipavan2128
 #                                                  #
